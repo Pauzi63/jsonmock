@@ -1,20 +1,31 @@
-[
+{
+"posts": [
 {
 "id": 1,
-"Baustelle": "Baustelle 1",
-"Vorname": "Franz",
-"Nachname": "Franzinger"
+"title": "Post 1"
 },
 {
 "id": 2,
-"Baustelle": "Baustelle 2",
-"Vorname": "Kurt",
-"Nachname": "Kurtinger"
+"title": "Post 2"
 },
 {
 "id": 3,
-"Baustelle": "Baustelle 3",
-"Vorname": "Karl",
-"Nachname": "Karlinger"
+"title": "Post 3"
 }
-]
+],
+"comments": [
+{
+"id": 1,
+"body": "some comment",
+"postId": 1
+},
+{
+"id": 2,
+"body": "some comment",
+"postId": 1
+}
+],
+"profile": {
+"name": "typicode"
+}
+}
