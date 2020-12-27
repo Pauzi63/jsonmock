@@ -1,4 +1,5 @@
-[
+{
+  "baustellen": [
 {
 "id": 1,
 "Baustelle": "Baustelle 1",
@@ -18,3 +19,4 @@
 "Nachname": "Karlinger"
 }
 ]
+}
