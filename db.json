@@ -2,21 +2,21 @@
   "baustellen": [
 {
 "id": 1,
-"Baustelle": "Baustelle 1",
-"Vorname": "Franz",
-"Nachname": "Franzinger"
+"baustelle": "Baustelle 1",
+"borname": "Franz",
+"nachname": "Franzinger"
 },
 {
 "id": 2,
-"Baustelle": "Baustelle 2",
-"Vorname": "Kurt",
-"Nachname": "Kurtinger"
+"baustelle": "Baustelle 2",
+"vorname": "Kurt",
+"nachname": "Kurtinger"
 },
 {
 "id": 3,
-"Baustelle": "Baustelle 3",
-"Vorname": "Karl",
-"Nachname": "Karlinger"
+"austelle": "Baustelle 3",
+"vorname": "Karl",
+"nachname": "Karlinger"
 }
 ],
   "profile": {
