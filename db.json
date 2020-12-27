@@ -1,0 +1,20 @@
+[
+{
+"id": 1,
+"Baustelle": "Baustelle 1"
+"Vorname": "Franz"
+"Nachname": "Franzinger"
+},
+{
+"id": 2,
+"Baustelle": "Baustelle 2"
+"Vorname": "Kurt"
+"Nachname": "Kurtinger"
+},
+{
+"id": 3,
+"Baustelle": "Baustelle 3"
+"Vorname": "Karl"
+"Nachname": "Karlinger"
+}
+]
