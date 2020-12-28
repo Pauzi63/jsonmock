@@ -14,12 +14,9 @@
 },
 {
 "id": 3,
-"austelle": "Baustelle 3",
+"baustelle": "Baustelle 3",
 "vorname": "Karl",
 "nachname": "Karlinger"
 }
-],
-  "profile": {
-    "name": "pauzi63"
-  }
+]
 }
